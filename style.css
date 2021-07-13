@@ -1,0 +1,130 @@
+#info
+{
+	padding-top:20px;
+	padding-bottom: 50px;
+	padding-right: 590px;
+	color: #696969;
+}
+#bg1
+{
+    width: 300px;
+	position: absolute;
+    right:650px;
+	top:725px;
+}
+.about
+{
+	padding-top: 0px;
+	padding-bottom: 100px;
+	padding-right: 590px;
+	color: #555;
+	position: absolute;
+	top: 1035px;
+	left:545px;
+	color: #555;
+	text-align: center;
+}
+
+h1
+{
+	position: absolute;
+	top: 1175px;
+	left:230px;
+	font-family:times new roman;
+}
+h2,h3
+{
+font-family:times new roman;
+color: #2c2c2c;	
+}
+.new
+{
+	position: absolute;
+	top: 1240px;
+	left:575px;
+	text-align: center;
+}
+#detail
+{
+    position: absolute;
+	top: 2050px;
+	left:325px;
+	text-align: center;
+	color: #8a8a8a;
+}
+.Corecomponent
+{
+    position: absolute;
+	top: 2150px;
+	left:300px;
+	text-align: center;
+	color:  #8a8a8a;
+}
+#node
+{
+	position: absolute;
+    top: 2380px;
+    left:425px;
+    width:700px;
+}
+.Cryptography
+{
+    position: absolute;
+	top: 2700px;
+	left:150px;
+	text-align: center;
+	color: #8a8a8a;
+}
+.Public-Key
+{
+    position: absolute;
+	top: 3050px;
+	left:250px;
+	text-align: center;
+	color: #8a8a8a;
+}
+#examp
+{
+    position: absolute;
+	top: 3400px;
+	left:575px;
+	width: 400px;
+}
+.Hashing
+{
+    position: absolute;
+	top: 3800px;
+	left:300px;
+	text-align: center;
+	color:  #8a8a8a;
+}
+.Merkle
+{
+    position: absolute;
+	top: 4200px;
+	left:325px;
+	text-align: center;
+	color: #8a8a8a;
+}
+b
+{
+   color: #474747;	
+}
+#last
+{
+    position: absolute;
+	top: 4700px;
+	left:570px;
+	width: 350px;
+	align-items: center;
+}
+#project
+{
+	position: absolute;
+	top: 5075px;
+	left:250px;
+	text-align: center;
+	color: #8a8a8a;
+	font-size: 20px;
+
+}
